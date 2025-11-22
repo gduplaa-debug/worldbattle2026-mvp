@@ -1,0 +1,12 @@
+[
+  { "code": "AR", "name": "Argentina", "slots": 0, "owned": [] },
+  { "code": "BR", "name": "Brasil", "slots": 0, "owned": [] },
+  { "code": "US", "name": "Estados Unidos", "slots": 0, "owned": [] },
+  { "code": "MX", "name": "México", "slots": 0, "owned": [] },
+  { "code": "ES", "name": "España", "slots": 0, "owned": [] },
+  { "code": "DE", "name": "Alemania", "slots": 0, "owned": [] },
+  { "code": "FR", "name": "Francia", "slots": 0, "owned": [] },
+  { "code": "JP", "name": "Japón", "slots": 0, "owned": [] },
+  { "code": "CN", "name": "China", "slots": 0, "owned": [] },
+  { "code": "SA", "name": "Arabia Saudita", "slots": 0, "owned": [] }
+]
